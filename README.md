@@ -80,16 +80,16 @@ with an account.
 
 # Landing page
 
-!(./screens/image5.png)
+![customer](./screens/image5.png)
 
 # Login page
 
-!(./screens/image2.png)
+![customer](./screens/image2.png)
 
 # View Package Details
 
-!(./screens/image3.png)
+![customer]!(./screens/image3.png)
 
 # Transfer Ownership
 
-!(./screens/image8.png)
+![customer]!(./screens/image8.png)
