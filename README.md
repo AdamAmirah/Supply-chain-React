@@ -78,18 +78,18 @@ with an account.
 
 ## Web Interface Preview
 
-# Landing page
+### Landing page
 
 ![customer](./screens/image5.png)
 
-# Login page
+### Login page
 
 ![customer](./screens/image2.png)
 
-# View Package Details
+### View Package Details
 
-![customer]!(./screens/image3.png)
+![customer](./screens/image3.png)
 
-# Transfer Ownership
+### Transfer Ownership
 
-![customer]!(./screens/image8.png)
+![customer](./screens/image8.png)
